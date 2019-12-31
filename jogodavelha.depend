@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1577813952 source:c:\users\josemar júnior\desktop\ifba\inf006 - estrutura de dados e algoritimo\jogodavelha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"header.h"
+
+1577813107 c:\users\josemar júnior\desktop\ifba\inf006 - estrutura de dados e algoritimo\jogodavelha\header.h
+
